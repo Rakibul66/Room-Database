@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task RoomDatabase</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="submit">Submit</string>
+</resources>
